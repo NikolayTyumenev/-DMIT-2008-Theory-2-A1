@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Nikolay Tyumenev - Full-Stack Web Developer",
+    "description": "I'm a developer based in Edmonton, AB, passionate about web development and design. My primary tools of choice include: JavaScript, React, Next.js, Node.js, and WordPress.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,40 +11,34 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Nikolay Tyumenev",
+    "jobTitle": "Full-Stack Web Developer",
+    "worksFor": "NAIT",
+    "location": "Edmonton",
+    "countryCode": "CA",
+    "nationality": "Canadian",
+    "publisherName": "Nikolay Tyumenev",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/nikolaytyumenev/",
+      "https://github.com/NikolayTyumenev"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Nikolay Tyumenev",
+    "summary": "a full-stack web developer with a focus on creating engaging user experiences and clean, functional designs",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/NikolayTyumenev"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://www.linkedin.com/in/nikolaytyumenev/"
       }
     ],
     "supportLink": {
@@ -54,42 +48,38 @@
     },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "photo of Nikolay"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Nikolay, a full-stack web developer and DMIT student at NAIT in Edmonton, AB.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
       "JavaScript",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Next.js",
+      "Node.js",
+      "WordPress",
+      "PHP"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
+    "passion": "Beyond coding, I'm passionate about gaming, anime, VTuber content creation, and playing D&D with friends. I also have a background in architecture and management which gives me a unique perspective on design and project planning.",
     "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "nikolaytyumenev@gmail.com",
+    "location": "Edmonton, AB",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/nikolaytyumenev/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://github.com/NikolayTyumenev"
       }
     ]
   },
@@ -101,7 +91,7 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Finishing my final semester at NAIT DMIT program"
   },
   "sections": {
     "schoolAssignment": {
