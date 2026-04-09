@@ -1,6 +1,6 @@
 # Theory 2
 
-> Student Name: **YOUR_NAME**
+> Student Name: **Nikolay Tyumenev**
 
 ![Website Screenshot](./docs/images/screenshot.png)
 
