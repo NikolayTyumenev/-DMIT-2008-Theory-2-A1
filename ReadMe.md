@@ -2,7 +2,7 @@
 
 > Student Name: **Nikolay Tyumenev**
 
-![Website Screenshot](./docs/images/screenshot.png)
+![screenshot](image.png)
 
 In this assignment, you will demonstrate your ability to
 
