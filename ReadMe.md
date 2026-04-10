@@ -1,6 +1,8 @@
 # Theory 2
 
-> Student Name: **Nikolay Tyumenev**
+> Student Name: **Nikolay Tyumenev** 
+ 
+ > Github Username: **NikolayTyumenev**
 
 ![screenshot](image.png)
 
